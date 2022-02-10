@@ -1,0 +1,18 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(238, 242, 246);
+}
+.card{
+    box-shadow: 10px;
+    width: 65%;
+    padding: 20px;
+    margin: 30px auto;
+    background-color: white;
+    box-shadow: 1px 2px 1px 1px rgb(104, 102, 102);
+}
+img{
+    height: 220px;
+    width: 220px;
+    float: left;
+}
