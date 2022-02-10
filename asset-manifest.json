@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/avatar-api/static/css/main.39fcbee2.css",
+    "main.js": "/avatar-api/static/js/main.e93fb852.js",
+    "index.html": "/avatar-api/index.html",
+    "main.39fcbee2.css.map": "/avatar-api/static/css/main.39fcbee2.css.map",
+    "main.e93fb852.js.map": "/avatar-api/static/js/main.e93fb852.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39fcbee2.css",
+    "static/js/main.e93fb852.js"
+  ]
+}
